@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PubMed Papers Fetcher
 
 ## 📚 Description
@@ -25,3 +26,6 @@ Run:
 ```bash
 poetry run get-papers-list "cancer therapy" -f results.csv
 ```
+=======
+# pubmed-papers
+>>>>>>> 4639090790c57bb812d1ff594a9ad13d5d90587c
